@@ -1,6 +1,6 @@
 <section class="formulario" id="form">
     <h2 class="mt-3 text-white">Formulário</h2>
-    <p class="subtitle ">Preenche com detalhes sobre sua ideia de projeto</p>
+    <p class="subtitle ">Aqui você pode me dar mais detalhes sobre sua ideia de projeto</p>
     <br>
     <div class="row mt-3" style="margin-top:25px ;">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 mt-4">
@@ -15,11 +15,11 @@
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-9 mt-4">
             <div class="card-body">
                 <p class="white-text p-4 texto-apresentacao">Ao preencher o formulário, você está abrindo as portas para uma colaboração
-                    que pode revolucionar sua visão. Nossa equipe de especialistas está pronta para mergulhar no seu
+                    que pode revolucionar sua visão. Eu e minha equipe de especialistas está pronta para mergulhar no seu
                     projeto, entender cada aspecto e oferecer insights valiosos.</p>
                 <p class="white-text p-4 texto-apresentacao">Lembre-se, as maiores conquistas começam com um simples passo. Preencha o
                     formulário com as palavras-chave do seu projeto e em breve entraremos em contato. Juntos, vamos
-                    transformar ideias em conquistas tangíveis.</p>
+                    transformaremos ideias em conquistas tangíveis.</p>
 
                 <form>
                     <div class="row p-4">

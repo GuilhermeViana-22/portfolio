@@ -75,3 +75,18 @@ function erase() {
 }
 
 type(); // Start the typing effect
+
+const contentDivs = document.querySelectorAll('.card .content');
+const readMoreBtns = document.querySelectorAll('.read-more-btn');
+
+readMoreBtns.forEach((btn, index) => {
+    btn.addEventListener('click', () => {
+        contentDivs[index].classList.toggle('expanded');
+
+        if (contentDivs[index].classList.contains('expanded')) {
+            btn.textContent = 'Ler menos';
+        } else {
+            btn.textContent = 'Ler mais';
+        }
+    });
+});

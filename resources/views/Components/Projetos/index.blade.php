@@ -92,7 +92,7 @@
                                 automatizada de senhas e registro de informações. Desenvolvido por mim, visa atender
                                 eficazmente demandas diárias, cobrindo controle de chamadas, consultas e condições
                                 médicas variadas. Baseado em minha experiência direta em UBS, otimiza a gestão da
-                                saúde..</p>
+                                saúde.</p>
                         </div>
                     </div>
                 </a>
@@ -114,7 +114,7 @@
                                 importante ressaltar que este serviço foi desenvolvido de forma voluntária, com o
                                 objetivo nobre de promover a adoção responsável e também de arrecadar doações essenciais
                                 para apoiar os esforços da ONG, visando melhorar a qualidade de vida dos nossos
-                                companheiros de quatro patas..</p>
+                                companheiros de quatro patas.</p>
                         </div>
                     </div>
                 </a>
@@ -171,40 +171,70 @@
                             <h4 class="fw-bold mb-4">SUPPORT</h4>
                             <p class="mb-4 job-description">2023</p>
                             <p class="mb-0 job-description">Landing page "Support", uma marca dedicada a fornecer
-                                auxílio valioso.</p>
+                                auxílio
+                                valioso e assistência aos agentes do Ministério da Saúde por meio de sistemas de
+                                informação avançados e tecnologia de ponta. Este site foi especialmente criado para
+                                atender a esse âmbito, buscando fortalecer a eficiência dos processos e a tomada de
+                                decisões, garantindo o máximo suporte possível para o setor da saúde.</p>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="col-xs-8 col-sm-6 col-md-12 col-lg-6">
-
-
-                <a class="link" href="https://sgasupportsus.netlify.app" target="_blank">
-                    <div class="card mb-4">
-                        <img src="{{ asset('site/projetos/sistema.jpg') }}" alt="Card image cap  loading=" lazy">
-                        <div class="card-body p-4">
-                            <h4 class="fw-bold mb-4">SUPPORTSUS</h4>
-                            <p class="mb-4 job-description">2023</p>
-                            <p class="mb-0 job-description">Sistema Avançado de Gerenciamento de Atendimento para
-                                Unidades Básicas de Saúde.</p>
+                <div class="card">
+                    <img src="{{ asset('site/projetos/sistema.jpg') }}" alt="Card image cap" loading="lazy">
+                    <div class="card-body p-4">
+                        <a class="link" href="https://bartho.org.br/" target="_blank">
+                            <a class="link" href="https://sgasupportsus.netlify.app" target="_blank"><h4
+                                    class="fw-bold mb-4">SUPPORTSUS</h4></a>
+                        </a>
+                        <p class="mb-4 job-description">
+                            <i class="far fa-clock" aria-hidden="true"
+                               style="text-align: center !important; color: #fff"></i> 2023
+                        </p>
+                        <div class="content">
+                            <p class="mb-0 job-description">
+                                Sistema Avançado de Gerenciamento de Atendimento para
+                                Unidades Básicas de Saúde
+                            </p>
+                            <p class="hidden-text job-description"> Oferece um fluxo completo para pacientes, incluindo emissão
+                                automatizada de senhas e registro de informações. Desenvolvido por mim, visa atender
+                                eficazmente demandas diárias, cobrindo controle de chamadas, consultas e condições
+                                médicas variadas. Baseado em minha experiência direta em UBS, otimiza a gestão da
+                                saúde.
+                            </p>
                         </div>
+                        <button class="read-more-btn custom-button">Ler mais</button>
                     </div>
-                </a>
+                </div>
             </div>
+
             <div class="col-xs-8 col-sm-6 col-md-12 col-lg-6">
-
-
-                <a class="link" href="https://bartho.org.br/" target="_blank">
-                    <div class="card mb-4">
-                        <img src="{{ asset('site/projetos/bartho.png') }}" alt="Card image cap" loading="lazy">
-                        <div class="card-body p-4">
+                <div class="card">
+                    <img src="{{ asset('site/projetos/bartho.png') }}" alt="Card image cap" loading="lazy">
+                    <div class="card-body p-4">
+                        <a class="link" href="https://bartho.org.br/" target="_blank">
                             <h4 class="fw-bold mb-4">Barthô - Grupo de Proteção Animal</h4>
-                            <p class="mb-4 job-description">2023</p>
-                            <p class="mb-0 job-description">Website Barthô - Grupo de Proteção Animal, um espaço
-                                cuidadosamente concebido.</p>
+                        </a>
+                        <p class="mb-4 job-description">
+                            <i class="far fa-clock" aria-hidden="true"
+                               style="text-align: center !important; color: #fff"></i> 2023
+                        </p>
+                        <div class="content">
+                            <p class="mb-0 job-description">
+                                Website Barthô - Grupo de Proteção Animal, um espaço cuidadosamente concebido, voltado
+                                para a exibição de animais disponíveis para adoção.
+                            </p>
+                            <p class="hidden-text job-description">
+                                É importante ressaltar que este serviço foi desenvolvido de forma voluntária, com o
+                                objetivo nobre de promover a adoção responsável e também de arrecadar doações essenciais
+                                para apoiar os esforços da ONG, visando melhorar a qualidade de vida dos nossos
+                                companheiros de quatro patas.
+                            </p>
                         </div>
+                        <button class="read-more-btn custom-button">Ler mais</button>
                     </div>
-                </a>
+                </div>
             </div>
         </div>
     </div>
