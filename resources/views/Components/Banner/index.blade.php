@@ -1,9 +1,10 @@
+
+<div class="typing-effect " id="typingEffect"></div>
 <div class="banner">
     <video autoplay muted loop class="bannerDesktop">
-        <source src="./video/banner.mp4" type="video/mp4">
+        <source  src="{{ asset('site/video/banner.mp4') }}" type="video/mp4">
+
     </video>
 </div>
 
-<div class="bannerMobile">
-    <img style="width: 300px;" class="rocket" src="./img/animado.png">
-</div>
+<span><a target="_blank" href="https://api.whatsapp.com/send?phone=5511954509504" id="whatsapp-button"><i id="whatsapp" class="fab fa-whatsapp animate__animated animate__jello"></i></a></span>

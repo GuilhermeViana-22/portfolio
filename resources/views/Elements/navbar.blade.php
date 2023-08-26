@@ -6,7 +6,7 @@
             <li><a class="a-link" href="#Sobre">Sobre</a></li>
             <li><a class="a-link" href="#Servicos">Serviços</a></li>
             <li><a class="a-link" href="#Projetos">Projetos</a></li>
-            <li><a class="a-link custom-button" href="#Contato">Contato</a></li>
+            <li><a class="a-link custom-button" href="https://api.whatsapp.com/send?phone=5511954509504">Contato</a></li>
         </ul>
     </nav>
 </header>

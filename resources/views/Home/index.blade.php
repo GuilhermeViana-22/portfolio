@@ -8,5 +8,6 @@
     @include('Components.Skills.index')
     @include('Components.Tech.index')
     @include('Components.Projetos.index')
+    @include('Components.Formulario.index')
     @include('Components.Footer.index')
 @endsection

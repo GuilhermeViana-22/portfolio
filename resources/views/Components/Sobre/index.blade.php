@@ -1,10 +1,10 @@
 <section id="sobre">
 
         <div class="row area-sobre p-2">
-            <div class="col-12 col-md-12 col-sm-12 col-lg-6 col-xs-12 mt-4">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 mt-4">
                 <img id="office" src="{{ asset('site/img/guilherme.jpeg') }}" alt="Imagem"  class="img-fluid Office">
             </div>
-            <div class="col col-md-4 col-sm-12 col-lg-4 col-xs-12">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 mt-4">
                 <br>
                 <h3 id="Sobre" class="titulo">Sobre</h3>
                 <p class="texto-apresentacao">Meu nome é Guilherme Viana e desde cedo me vi envolvido pelo mundo da tecnologia. Tenho explorado com entusiasmo diversas stacks inovadoras que emergem e ganham destaque no mercado. Minha área de atuação predileta é o desenvolvimento web e mobile, onde concentro meus esforços e aprimoro minhas habilidades.</p>
@@ -13,7 +13,7 @@
 
             </div>
 
-            <div class="col-12 col-md-12 col-sm-12 col-lg-6 col-xs-12" style="margin-top: 60px">
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 mt-4" style="margin-top: 60px">
                 <h3>Aberto a oportunidades</h3>
 
                 <p class="texto-apresentacao">
@@ -24,7 +24,8 @@
             </div>
 
             <div class="center">
-                <button class="custom-button">Entre em contato</button>
+
+                <a class="custom-button" style="text-decoration: none; font-size: 18pt; margin-top: 20px" href="https://api.whatsapp.com/send?phone=5511954509504">Entre em contato</a>
             </div>
         </div>
 </section>
