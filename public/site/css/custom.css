@@ -912,6 +912,10 @@ ul li a {
         }
     }
 
+    #office {
+        max-width: 100%;
+        height: max-content;
+    }
 
 }
 
@@ -955,7 +959,10 @@ ul li a {
 
     .formulario {
         padding: 10px;
-    }
+    }    #office {
+             max-width: 100%;
+             height: max-content;
+         }
 }
 
 
@@ -1000,5 +1007,9 @@ ul li a {
 
     .formulario {
         padding: 10px;
+    }
+    #office {
+        max-width: 100%;
+        height: max-content;
     }
 }
