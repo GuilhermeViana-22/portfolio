@@ -108,7 +108,7 @@
                             <h4 class="fw-bold mb-4">Barthô - Grupo de Proteção Animal</h4>
                             <p class="mb-4 job-description"><i class="far fa-clock" aria-hidden="true"
                                                                style="text-align: center !important; color: #fff"></i>
-                                2022</p>
+                                2023</p>
                             <p class="mb-0 job-description">Website Barthô - Grupo de Proteção Animal, um espaço
                                 cuidadosamente concebido, voltado para a exibição de animais disponíveis para adoção.> É
                                 importante ressaltar que este serviço foi desenvolvido de forma voluntária, com o
@@ -131,7 +131,7 @@
                             <h4 class="fw-bold mb-4">Transportadora Lanzara</h4>
                             <p class="mb-4 job-description">2019</p>
                             <p class="mb-0 job-description">Landing page elaborado para a promoção de uma
-                                transportadora...</p>
+                                transportadora.</p>
                         </div>
                     </div>
                 </a>
@@ -144,7 +144,7 @@
                             <h4 class="fw-bold mb-4">Code Knight</h4>
                             <p class="mb-4 job-description">2020</p>
                             <p class="mb-0 job-description">Landing page criada com o propósito de promover uma
-                                inovadora...</p>
+                                inovadora.</p>
                         </div>
                     </div>
                 </a>
@@ -157,25 +157,12 @@
                             <h4 class="fw-bold mb-4">Dr Gabriella Chaluppe</h4>
                             <p class="mb-4 job-description">2023</p>
                             <p class="mb-0 job-description">Landing page criado para a captação eficaz de leads e
-                                ampla...</p>
+                                ampla.</p>
                         </div>
                     </div>
                 </a>
             </div>
             <!-- Repeat the above structure for the remaining cards -->
-            <div class="col-xs-8 col-sm-6 col-md-12 col-lg-6">
-                <a class="link" href="https://bartho.org.br/" target="_blank">
-                    <div class="card mb-4">
-                        <img src="{{ asset('site/projetos/bartho.png') }}" alt="Card image cap" loading="lazy">
-                        <div class="card-body p-4">
-                            <h4 class="fw-bold mb-4">Barthô - Grupo de Proteção Animal</h4>
-                            <p class="mb-4 job-description">2020</p>
-                            <p class="mb-0 job-description">Website Barthô - Grupo de Proteção Animal, um espaço
-                                cuidadosamente concebido...</p>
-                        </div>
-                    </div>
-                </a>
-            </div>
             <div class="col-xs-8 col-sm-6 col-md-12 col-lg-6">
                 <a class="link" href="https://supportsus.com.br/" target="_blank">
                     <div class="card mb-4">
@@ -184,12 +171,14 @@
                             <h4 class="fw-bold mb-4">SUPPORT</h4>
                             <p class="mb-4 job-description">2023</p>
                             <p class="mb-0 job-description">Landing page "Support", uma marca dedicada a fornecer
-                                auxílio valioso...</p>
+                                auxílio valioso.</p>
                         </div>
                     </div>
                 </a>
             </div>
             <div class="col-xs-8 col-sm-6 col-md-12 col-lg-6">
+
+
                 <a class="link" href="https://sgasupportsus.netlify.app" target="_blank">
                     <div class="card mb-4">
                         <img src="{{ asset('site/projetos/sistema.jpg') }}" alt="Card image cap  loading=" lazy">
@@ -197,7 +186,22 @@
                             <h4 class="fw-bold mb-4">SUPPORTSUS</h4>
                             <p class="mb-4 job-description">2023</p>
                             <p class="mb-0 job-description">Sistema Avançado de Gerenciamento de Atendimento para
-                                Unidades Básicas de Saúde...</p>
+                                Unidades Básicas de Saúde.</p>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-xs-8 col-sm-6 col-md-12 col-lg-6">
+
+
+                <a class="link" href="https://bartho.org.br/" target="_blank">
+                    <div class="card mb-4">
+                        <img src="{{ asset('site/projetos/bartho.png') }}" alt="Card image cap" loading="lazy">
+                        <div class="card-body p-4">
+                            <h4 class="fw-bold mb-4">Barthô - Grupo de Proteção Animal</h4>
+                            <p class="mb-4 job-description">2023</p>
+                            <p class="mb-0 job-description">Website Barthô - Grupo de Proteção Animal, um espaço
+                                cuidadosamente concebido.</p>
                         </div>
                     </div>
                 </a>

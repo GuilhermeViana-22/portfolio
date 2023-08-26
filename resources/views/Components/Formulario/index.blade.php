@@ -1,4 +1,4 @@
-<section class="formulario" id="Formulario">
+<section class="formulario" id="form">
     <h2 class="mt-3 text-white">Formulário</h2>
     <p class="subtitle ">Preenche com detalhes sobre sua ideia de projeto</p>
     <br>

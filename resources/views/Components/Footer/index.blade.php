@@ -33,7 +33,7 @@
                     <li><a href="https://api.whatsapp.com/send?phone=5511954509504"><img src="{{ asset('site/contatos/whatapp.svg') }}"height="60" alt="whatapp"  target="_blank"></a></li>
                 </div>
             </div>
-            <p class="copyright">Todos os direitos reservados © Guilherme Viana Desenvolvedor Full Stack<span id="ano"></span> </p>
+            <p class="copyright">Todos os direitos reservados © Guilherme Viana Desenvolvedor Full Stack <span id="ano"></span> </p>
         </div>
     </footer>
 
