@@ -184,10 +184,8 @@
                 <div class="card">
                     <img src="{{ asset('site/projetos/sistema.jpg') }}" alt="Card image cap" loading="lazy">
                     <div class="card-body p-4">
-                        <a class="link" href="https://bartho.org.br/" target="_blank">
                             <a class="link" href="https://sgasupportsus.netlify.app" target="_blank"><h4
                                     class="fw-bold mb-4">SUPPORTSUS</h4></a>
-                        </a>
                         <p class="mb-4 job-description">
                             <i class="far fa-clock" aria-hidden="true"
                                style="text-align: center !important; color: #fff"></i> 2023

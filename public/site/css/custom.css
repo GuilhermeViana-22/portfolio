@@ -765,7 +765,7 @@ ul li a {
         top: 70px;
         right: 0;
         background-color: #282d32;
-        height: calc(100 vh- 70px);
+        height: calc(100 - 70px);
         padding: 10vh;
     }
 
