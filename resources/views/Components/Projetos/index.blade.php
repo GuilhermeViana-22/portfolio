@@ -202,7 +202,7 @@
                                 saúde.
                             </p>
                         </div>
-                        <button class="read-more-btn custom-button">Ler mais</button>
+
                     </div>
                 </div>
             </div>
@@ -230,7 +230,7 @@
                                 companheiros de quatro patas.
                             </p>
                         </div>
-                        <button class="read-more-btn custom-button">Ler mais</button>
+
                     </div>
                 </div>
             </div>
