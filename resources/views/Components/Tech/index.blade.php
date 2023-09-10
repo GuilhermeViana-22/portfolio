@@ -4,8 +4,8 @@
 
 <section class="container">
     <div class="row">
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 mt-4">
-            <div class="Web" data-anime="right">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 mt-4"  data-anime="right">
+            <div class="Web" >
                 <div class="text ">
                     <h4>Desenvolvimento Back-end</h4>
 
@@ -29,8 +29,8 @@
         </div>
 
 
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 mt-4">
-            <div class="Web" data-anime="right">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 mt-4" data-anime="right">
+            <div class="Web">
                 <div class="text ">
                     <h4>Desenvolvimento Front-end</h4>
 
@@ -57,8 +57,8 @@
 
 
     <div class="row">
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 mt-4">
-            <div class="Web" data-anime="right">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 mt-4" data-anime="right">
+            <div class="Web">
                 <div class="text ">
                     <h4>UI / UX Design</h4>
 
@@ -73,8 +73,8 @@
                          alt="Card image cap" height="70" loading="lazy"></li>
             </div>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 mt-4">
-            <div class="Web" data-anime="right">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 mt-4" data-anime="right">
+            <div class="Web">
                 <div class="text ">
                     <h4>Google ADS</h4>
 
@@ -92,8 +92,8 @@
     </div>
 
     <div class="row">
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 mt-4">
-            <div class="Web" data-anime="right">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 mt-4" data-anime="right">
+            <div class="Web">
                 <div class="text ">
                     <h4>Mobile</h4>
 
@@ -107,8 +107,8 @@
                          alt="Card image cap" height="70" loading="lazy"></li>
             </div>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 mt-4">
-            <div class="Web" data-anime="right">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-6 mt-4" data-anime="right">
+            <div class="Web">
                 <div class="text ">
                     <h4>Controle de código organizado</h4>
 
@@ -125,8 +125,8 @@
     </div>
 
     <div class="row">
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 mt-4">
-            <div class="Web" data-anime="right">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 mt-4" data-anime="right">
+            <div class="Web">
                 <div class="text ">
                     <h4>Hospedagem</h4>
 
