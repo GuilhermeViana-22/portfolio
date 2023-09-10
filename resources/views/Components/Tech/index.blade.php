@@ -139,7 +139,5 @@
                          alt="Card image cap" height="70" loading="lazy"></li>
             </div>
         </div>
-
-
     </div>
 </section>
