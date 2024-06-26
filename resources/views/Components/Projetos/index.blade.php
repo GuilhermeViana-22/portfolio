@@ -128,7 +128,7 @@
                             <p class="mb-4 job-description"><i class="far fa-clock" aria-hidden="true"
                                                                style="text-align: center !important; color: #fff"></i>
                                 2024</p>
-                            <p class="mb-0 job-description"> Oferecemos aulas interativas e personalizadas, projetadas para acelerar sua fluência de forma divertida e eficiente. Junte-se a nós e transforme sua jornada de aprendizado em uma experiência enriquecedora e gratificante, preparada para abrir portas no mundo globalizado. Inscreva-se hoje e comece a falar inglês com confiança!s</p>
+                            <p class="mb-0 job-description"> Site para oferecimento aulas interativas e personalizadas, projetadas para acelerar sua fluência de forma divertida e eficiente. Junte-se a nós e transforme sua jornada de aprendizado em uma experiência enriquecedora e gratificante, preparada para abrir portas no mundo globalizado. Inscreva-se hoje e comece a falar inglês com confiança!s</p>
                         </div>
                     </div>
                 </a>
@@ -264,7 +264,7 @@
                                style="text-align: center !important; color: #fff"></i> 2023
                         </p>
                         <div class="content">
-                            <p class="mb-0 job-description"> Oferecemos aulas interativas e personalizadas, projetadas para acelerar sua fluência de forma divertida e eficiente. Junte-se a nós e transforme sua jornada de aprendizado em uma experiência enriquecedora e gratificante, preparada para abrir portas no mundo globalizado. Inscreva-se hoje e comece a falar inglês com confiança!s</p>
+                            <p class="mb-0 job-description"> Site para oferecimento aulas interativas e personalizadas, projetadas para acelerar sua fluência de forma divertida e eficiente. Junte-se a nós e transforme sua jornada de aprendizado em uma experiência enriquecedora e gratificante, preparada para abrir portas no mundo globalizado. Inscreva-se hoje e comece a falar inglês com confiança!s</p>
 
                         </div>
 
