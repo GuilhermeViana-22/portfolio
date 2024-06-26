@@ -257,7 +257,7 @@
                     <img src="{{ asset('site/projetos/clever.png') }}" alt="Card image cap" loading="lazy">
                     <div class="card-body p-4">
                         <a class="link" href="http://cleverxm.com/" target="_blank">
-                            <h4 class="fw-bold mb-4">>Clever XM</h4>
+                            <h4 class="fw-bold mb-4">Clever XM</h4>
                         </a>
                         <p class="mb-4 job-description">
                             <i class="far fa-clock" aria-hidden="true"
