@@ -3,15 +3,6 @@
     <p class="subtitle ">Aqui você pode me dar mais detalhes sobre sua ideia de projeto</p>
     <br>
     <div class="row mt-3" style="margin-top:25px ;">
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-3 mt-4">
-            <div class="text-center">
-                <img style="margin-top: 20% !important" class="floating-element"
-                     src="{{ asset('site/img/rocket.png') }}" alt="Card image cap" loading="lazy">
-                <p class="white-text texto-apresentacao">Você tem uma ideia empolgante que está ansioso para transformar em realidade?
-                    Nosso formulário de especificação de projeto é o primeiro passo para tornar isso possível.
-                    Compartilhe os detalhes iniciais e permita-nos entender melhor o que você deseja alcançar.</p>
-            </div>
-        </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-9 mt-4">
             <div class="card-body">
                 <p class="white-text p-4 texto-apresentacao">Ao preencher o formulário, você está abrindo as portas para uma colaboração

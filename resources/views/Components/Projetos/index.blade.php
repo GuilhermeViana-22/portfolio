@@ -13,8 +13,7 @@
                              loading="lazy">
                         <div class="card-body p-4">
                             <h4 class="fw-bold mb-4">Transportadora Lanzara</h4>
-                            <p class="mb-4 job-description"><i class="far fa-clock" aria-hidden="true"
-                                                               style="text-align: center !important; color: #fff"></i>
+                            <p class="mb-4 job-description"><i class="far fa-clock" aria-hidden="true" style="text-align: center !important; color: #fff"></i>
                                 2019</p>
                             <p class="mb-0 job-description">Landing page elaborado para a promoção de uma
                                 transportadora, fornecendo informações sobre seus serviços de coleta e transporte de
@@ -119,6 +118,24 @@
                     </div>
                 </a>
             </div>
+            <div class="timeline-2 left-2" data-anime="left">
+                <a class="link" href="http://cleverxm.com/" target="_blank">
+                    <div class="card">
+                        <img src="{{ asset('site/projetos/clever.png') }}" alt="Card image cap"
+                             loading="lazy">
+                        <div class="card-body p-4">
+                            <h4 class="fw-bold mb-4">Clever XM</h4>
+                            <p class="mb-4 job-description"><i class="far fa-clock" aria-hidden="true"
+                                                               style="text-align: center !important; color: #fff"></i>
+                                2024</p>
+                            <p class="mb-0 job-description"> Oferecemos aulas interativas e personalizadas, projetadas para acelerar sua fluência de forma divertida e eficiente. Junte-se a nós e transforme sua jornada de aprendizado em uma experiência enriquecedora e gratificante, preparada para abrir portas no mundo globalizado. Inscreva-se hoje e comece a falar inglês com confiança!s</p>
+                        </div>
+                    </div>
+                </a>
+
+            </div>
+
+
         </div>
     </div>
     <div class="container py-5 projetos_mobile">
@@ -234,6 +251,7 @@
                     </div>
                 </div>
             </div>
+
         </div>
     </div>
 </section>
