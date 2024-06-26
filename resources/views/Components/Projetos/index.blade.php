@@ -128,7 +128,7 @@
                             <p class="mb-4 job-description"><i class="far fa-clock" aria-hidden="true"
                                                                style="text-align: center !important; color: #fff"></i>
                                 2024</p>
-                            <p class="mb-0 job-description"> Site para oferecimento aulas interativas e personalizadas, projetadas para acelerar sua fluência de forma divertida e eficiente. Junte-se a nós e transforme sua jornada de aprendizado em uma experiência enriquecedora e gratificante, preparada para abrir portas no mundo globalizado. Inscreva-se hoje e comece a falar inglês com confiança!s</p>
+                            <p class="mb-0 job-description"> Site para oferecimento de aulas interativas e personalizadas, projetadas para acelerar sua fluência de forma divertida e eficiente.</p>
                         </div>
                     </div>
                 </a>
@@ -212,12 +212,7 @@
                                 Sistema Avançado de Gerenciamento de Atendimento para
                                 Unidades Básicas de Saúde
                             </p>
-                            <p class="hidden-text job-description"> Oferece um fluxo completo para pacientes, incluindo emissão
-                                automatizada de senhas e registro de informações. Desenvolvido por mim, visa atender
-                                eficazmente demandas diárias, cobrindo controle de chamadas, consultas e condições
-                                médicas variadas. Baseado em minha experiência direta em UBS, otimiza a gestão da
-                                saúde.
-                            </p>
+                            <p class="mb-0 job-description"> Site para oferecimento de aulas interativas e personalizadas, projetadas para acelerar sua fluência de forma divertida e eficiente.</p>
                         </div>
 
                     </div>
