@@ -27,7 +27,7 @@ class MailController extends Controller
         ];
 
         // Enviar e-mail usando a classe SendMail
-        Mail::to('guilhermeviana@guilhermeviana.com')->send(new SendMail($details));
+        Mail::to('gguicido.viana@gmail.com')->send(new SendMail($details));
 
         // Redirecionar para uma nova view de confirmação (opcional)
         return redirect()->back()->with('success', 'E-mail enviado com sucesso!');
